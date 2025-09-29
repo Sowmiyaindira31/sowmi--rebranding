@@ -1,9 +1,9 @@
 🎨 Re-Brand Website Project
 
-This project is a Re-Brand of a Famous Website, built using HTML and CSS with a modern UI/UX design approach. The goal of this project is to give the original website a fresh, modern, and user-friendly look while practicing front-end design and development skills.
+This project is a rebrand of a Famous Website, built using HTML and CSS with a modern UI/UX design approach. The goal of this project is to give the original website a fresh, modern, and user-friendly look while practicing front-end design and development skills.
 
 🚀 Features
-✅ Complete re-branding of a popular website
+✅ Complete skars styke of a popular website
 ✅ Modern and minimal UI/UX design
 ✅ Fully responsive layout (desktop & mobile)
 ✅ Enhanced typography, spacing, and color schemes
